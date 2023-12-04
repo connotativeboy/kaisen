@@ -1,0 +1,22 @@
+const arr = [
+    {
+        "id":"1",
+        "childrens":[
+            {
+            "id":"12",
+            "childrens":[]
+            },
+            {
+                "id":"13",
+                "childrens":[{
+                "id":"123",
+                "childrens":[]
+            }]
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "childrens":[]
+    }
+]
